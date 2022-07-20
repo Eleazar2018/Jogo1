@@ -6,5 +6,8 @@
 > status do projeto: Em desenvolvimento
 Para rodar este projeto siga os passos:
 ```
-npm instal
+npm instal react
+```
+```
+node app.js
 ```
